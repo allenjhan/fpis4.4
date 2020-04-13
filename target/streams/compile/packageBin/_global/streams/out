@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/allen/rep/fpis4.4/target/scala-2.13/fpis4-4_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis4.4/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OptionSequenceTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis4.4/target/scala-2.13/classes/OptionSequenceTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OptionSequenceTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis4.4/target/scala-2.13/classes/OptionSequenceTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OptionSequenceTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/fpis4.4/target/scala-2.13/classes/OptionSequenceTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
